@@ -1,0 +1,10 @@
+# Schemabot
+
+> Schemabot est un prototype d’espace entre les séances de thérapie des schémas. Il réunit un journal guidé, des supports d’écriture et une préparation de séance, avec un espace patient et un espace thérapeute.
+
+Version actuelle : prototype local avec données fictives uniquement. Aucun compte authentifié, aucun suivi réel ni transmission à un thérapeute. Les réponses du journal sont simulées, sans appel LLM. Les écrits restent dans le navigateur, sans synchronisation entre appareils. La bascule Patient / Thérapeute n’est pas un contrôle d’accès.
+
+## Présentation publique
+
+- [Présentation complète en Markdown](https://julienbe.github.io/schemabot-site/presentation.md): Fonctionnalités, destinataires, stockage et limites de la démonstration.
+- [Présentation HTML](https://julienbe.github.io/schemabot-site/presentation.html): Même information, avec liens pour explorer la démonstration.
